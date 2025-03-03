@@ -66,8 +66,7 @@ As the common-mode input voltage \( VICM \) increases, the source voltage \( VP 
 
 ### **Calculate maximum input and output Swing**
 
-![WhatsApp Image 2025-03-03 at 19 41 21_f3241622](https://github.com/user-attachments/assets/d3837ce5-1701-499f-a65b-b74a5990ec11)
-
+![1000087836](https://github.com/user-attachments/assets/a7147bde-a96f-4703-9a03-c7482373dc9d)
 
 
 ### **TRANSIENT ANALYSIS**
